@@ -1,7 +1,7 @@
 # Installation
 pip install [dict-fr-ABU](https://pypi.org/project/dict-fr-ABU/)
 
-# French dictionary from Association des Bibliophiles Universels (ABU)
+# French dictionaries from Association des Bibliophiles Universels (ABU)
 
 ## DESCRIPTION
 This package contains several dictionaries processed from [those made available](http://abu.cnam.fr/DICO/) by the [Association des Bibliophiles Universels (ABU)](http://abu.cnam.fr/) organization.
