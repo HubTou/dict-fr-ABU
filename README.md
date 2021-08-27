@@ -44,9 +44,10 @@ These generated files went through the following transformations:
 * conversion from ISO-Latin-1 to UTF-8
 * sort
 * removal of duplicates
-* removal of lemme and grammatical info from dict-fr-ABU-mots_communs
+* removal of lemma and grammatical info from dict-fr-ABU-mots_communs
 * removal of the zip codes from dict-fr-ABU-cites
-* 
+* lossless conversion of accents for the *\*-ascii* versions
+* combination of the *\*-ascii* and *\*-unicode* versions into the *\*-combined* ones (without duplicates)
 
 ## SEE ALSO
 [spell(1)](https://www.freebsd.org/cgi/man.cgi?query=spell) like tools,
