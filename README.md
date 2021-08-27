@@ -4,7 +4,7 @@ pip install [dict-fr-ABU](https://pypi.org/project/dict-fr-ABU/)
 # French dictionaries from Association des Bibliophiles Universels (ABU)
 
 ## DESCRIPTION
-This package contains several dictionaries processed from [those made available](http://abu.cnam.fr/DICO/) by the [Association des Bibliophiles Universels (ABU)](http://abu.cnam.fr/) organization.
+This package contains several dictionaries processed from [those made available](http://abu.cnam.fr/DICO/) by the [Association des Bibliophiles Universels (ABU)](http://abu.cnam.fr/) organization before 2003.
 
 ## FILES
 All files are installed in Python's */usr/local* equivalent, under *share/dict*.
@@ -38,8 +38,6 @@ dict-fr-ABU-pays.ascii|Countries and regions (unaccented)
 dict-fr-ABU-pays.combined|Countries and regions (accented)
 dict-fr-ABU-pays.unicode|Countries and regions (with both accented and unaccented words)
 dict-fr-ABU-prenoms.ascii|Firstnames (unaccented)
-dict-fr-ABU-prenoms.combined|Same
-dict-fr-ABU-prenoms.unicode|Same
 
 ## SEE ALSO
 [spell(1)](https://www.freebsd.org/cgi/man.cgi?query=spell) like tools,
