@@ -40,7 +40,7 @@ dict-fr-ABU-pays.unicode|Countries and regions (with both accented and unaccente
 dict-fr-ABU-prenoms.ascii|Firstnames (unaccented)
 
 These generated files went through the following transformations:
-* extraction of the headers in the *dict-fr-header-\** files above
+* extraction of the headers into the *dict-fr-header-\** files above
 * conversion from ISO-Latin-1 to UTF-8
 * sort
 * removal of duplicates
