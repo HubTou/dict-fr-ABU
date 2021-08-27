@@ -69,3 +69,4 @@ Some source files had mandatory headers that were kept under *data/dict-fr-ABU-H
 [Association des Bibliophiles Universels (ABU)](http://abu.cnam.fr/INFO/) for the original contents.
 
 [Hubert Tournier](https://github.com/HubTou) for the package.
+

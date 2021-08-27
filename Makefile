@@ -24,8 +24,7 @@ dict-fr-ABU-mots_communs:
 dict-fr-ABU-prenoms:
 	( cd data ; fetch -q ${URL}/${PRENOMS} -o prenoms )
 	( cd data ; awk 'BEGIN {FOUND=0} /DEBUT DU FICHIER DICO\/prenoms/ {FOUND=1} FOUND==1 {print}' prenoms | grep -v -- "-----" | grep -v "^ *$$" | iconv -f ISO-8859-1 -t UTF-8 | sort > dict-fr-ABU-prenoms )
-	( cd data ; cat dict-fr-ABU-prenoms | uniq | tee dict-fr-ABU-prenoms.unicode | unicode2ascii | sort | uniq > dict-fr-ABU-prenoms.ascii )
-	( cd data ; cat dict-fr-ABU-prenoms.unicode dict-fr-ABU-prenoms.ascii | sort | uniq > dict-fr-ABU-prenoms.combined )
+	( cd data ; cat dict-fr-ABU-prenoms | unicode2ascii | sort | uniq > dict-fr-ABU-prenoms.ascii )
 
 dict-fr-ABU-cites:
 	( cd data ; fetch -q ${URL}/${CITES} -o cites )
