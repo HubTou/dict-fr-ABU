@@ -37,7 +37,7 @@ dict-fr-ABU-mots_communs.unicode|French common words (with both accented and una
 dict-fr-ABU-pays.ascii|Countries and regions (unaccented)
 dict-fr-ABU-pays.combined|Countries and regions (accented)
 dict-fr-ABU-pays.unicode|Countries and regions (with both accented and unaccented words)
-dict-fr-ABU-prenoms.ascii|Same
+dict-fr-ABU-prenoms.ascii|Firstnames (unaccented)
 dict-fr-ABU-prenoms.combined|Same
 dict-fr-ABU-prenoms.unicode|Same
 
