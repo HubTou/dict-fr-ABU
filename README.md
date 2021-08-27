@@ -47,7 +47,8 @@ dict-fr-ABU-prenoms.ascii|Firstnames (unaccented)
 These data files were originally intended to be used with the [PNU project](https://github.com/HubTou/PNU)'s
 [anagram](https://github.com/HubTou/anagram) command, as well as many other text processing tools.
 
-I wrote an [history of Unix & French dictionaries](https://github.com/HubTou/PNU/wiki/Les-dictionnaires-sous-Unix) (in French only).
+I wrote an [history of Unix & French dictionaries](https://github.com/HubTou/PNU/wiki/Les-dictionnaires-sous-Unix) (in French only),
+which covers this dictionary and many others.
 
 ## LICENSE
 The original contents, as well as this package, are licensed under the [ABU 1.1 license](http://abu.cnam.fr/cgi-bin/donner_licence).
